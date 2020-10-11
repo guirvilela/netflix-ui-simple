@@ -33,6 +33,7 @@ header nav a {
   text-decoration: none;
   color: #AAA;
   margin-right: 10px;
+  font-family: 'Arial', sans-serif;
 }
 
 header nav a:hover {
@@ -57,6 +58,9 @@ header nav a:hover {
 }
 
 .description {
+  width: 45%;
+  line-height: 1.4;
+  font-size: 1rem;
   margin-bottom: 40px;
 }
 
@@ -99,4 +103,8 @@ header nav a:hover {
   height: 100%;
   width: 100%;
   display: block;
+}
+
+.carousel {
+  margin-top: 5px;
 }
