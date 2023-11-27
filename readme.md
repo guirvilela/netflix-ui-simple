@@ -89,18 +89,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 4. Envie as suas alterações: `git push origin my-feature`
    > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
----
-
-## 🦸 Autor
-
-<a href="https://www.linkedin.com/in/fernandosantosc/">
- <img style="border-radius: 50%;" src="https://github.com/codder404.png" width="100px;" alt=""/>
- <br />
- <sub><b>Fernando dos Santos</b></sub></a> <a href="https://www.linkedin.com/in/fernandosantosc/" title="Fernando">🚀</a>
- <br />
-
-[![Twitter Badge](https://img.shields.io/badge/-@codder404-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codder404)](https://twitter.com/codder404) [![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandosantosc/)](https://www.linkedin.com/in/fernandosantosc/)
-[![Gmail Badge](https://img.shields.io/badge/-nando4803@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nando4803@gmail.com)](mailto:nando4803@gmail.com)
 
 ---
 
